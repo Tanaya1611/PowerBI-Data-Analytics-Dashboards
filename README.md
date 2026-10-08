@@ -18,6 +18,8 @@ Business sales analysis using the Classic Models dataset.
 
 **Tools:** Power BI, DAX, Power Query
 
+---
+
 ### 2. Healthcare Analytics Dashboard
 
 Interactive healthcare dashboard for analyzing patients, doctors, appointments, admissions, billing, pharmacy, and laboratory data.
@@ -32,6 +34,12 @@ Interactive healthcare dashboard for analyzing patients, doctors, appointments, 
 * Pharmacy & Laboratory Insights
 
 **Tools:** Power BI, DAX, Power Query, Excel
+
+**Dashboard Preview:**
+
+![Healthcare Dashboard](Healthcare_Dashboard/Exicutive_Dashboard.png)
+
+---
 
 ### 3. HR Analytics Dashboard
 
@@ -48,6 +56,12 @@ HR analytics dashboard designed to analyze recruitment and workforce-related dat
 
 **Tools:** Power BI, DAX, Power Query
 
+**Dashboard Preview:**
+
+![HR Dashboard](HR_Analytics_Dashboard/HR_Dashboard.png)
+
+---
+
 ### 4. Sales Dashboard
 
 Business sales dashboard designed to monitor sales performance and identify important business trends.
@@ -61,6 +75,12 @@ Business sales dashboard designed to monitor sales performance and identify impo
 * Sales Trends
 
 **Tools:** Power BI, DAX, Power Query
+
+**Dashboard Preview:**
+
+![Sales Dashboard](Sales_Dashboard/Sales_Dashboard.png)
+
+---
 
 ## 🛠 Skills Demonstrated
 
